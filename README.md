@@ -1,6 +1,6 @@
-# Hello, I'm Tamzidan
+# Hello, I'm zxyrin
 
-If you want to know more about me [click here](https://tamzidan.github.io/tamzidan/)
+If you want to know more about me [click here]([https://arlinsusanti.github.io/zxyrin/])
 it is my personal website, which showcases my projects, portfolio, blog, contact information and skills. This website is published and hosted using [GitHub Pages](https://pages.github.com/)
 
 ## Sections
